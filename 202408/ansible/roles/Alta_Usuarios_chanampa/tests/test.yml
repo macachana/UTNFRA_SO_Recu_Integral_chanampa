@@ -1,0 +1,5 @@
+---
+- hosts: localhost
+  remote_user: mc
+  roles:
+    - Alta_Usuarios_chanampa

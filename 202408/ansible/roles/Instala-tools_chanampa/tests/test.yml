@@ -1,0 +1,5 @@
+---
+- hosts: localhost
+  remote_user: mc
+  roles:
+    - Instala-tools_chanampa

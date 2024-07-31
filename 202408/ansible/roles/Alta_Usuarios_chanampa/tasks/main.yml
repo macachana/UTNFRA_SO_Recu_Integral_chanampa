@@ -1,0 +1,32 @@
+---
+# tasks file for Alta_Usuarios_chanampa
+- debug:
+    msg: "iniciando tareas de creacion de usuarios y grupos"
+
+- name: "Crear el grupo GProfesores"
+  become: yes
+  ansible.builtin.group:
+    name: "GProfesores"
+    state: present
+
+- name: "Crear el grupo GAlumnos"
+  become: yes
+  ansible.builtin.group:
+    name: "GAlumnos"
+    state: present
+
+- name: "Crear usuario Profesor y asignarlo al grupo GProfesores"
+  become: yes
+  ansible.builtin.user:
+    name: "Profesor"
+    shell: /bin/bash
+    create_home: yes
+    group: GProfesores
+
+- name: "Crear usuario Alumno y asignarlo al grupo GAlumnos"
+  become: yes
+  ansible.builtin.user:
+    name: "alumno"
+    shell: /bin/bash
+    create_home: yes
+    group: GAlumnos

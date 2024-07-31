@@ -1,0 +1,16 @@
+---
+- hosts: all
+
+  tasks:
+    - include_role:
+        name: Alta_Usuarios_chanampa
+    - include_role:
+        name: 2PRecuperatorio
+    - include_role:
+        name: Sudoers_chanampa
+    - include_role:
+        name: Instala-tools_chanampa
+    - name: "mensaje final"
+      debug:
+        msg: "Despues de la ejecucion del rol"
+

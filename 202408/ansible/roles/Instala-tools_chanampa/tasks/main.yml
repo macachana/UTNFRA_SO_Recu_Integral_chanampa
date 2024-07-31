@@ -1,0 +1,28 @@
+---
+# tasks file for Instala-tools_chanampa
+- debug:
+    msg: "Iniciando tareas del rol Instala-tools"
+
+- name: "Instalar htop"
+  become: yes
+  package:
+    name: htop
+    state: present
+
+- name: "Instalar tmux"
+  become: yes
+  package:
+    name: tmux
+    state: present
+
+- name: "Instalar tree"
+  become: yes
+  package:
+    name: tree
+    state: present
+
+- name: "Instalar speedtest-cli"
+  become: yes
+  package:
+    name: speedtest-cli
+    state: present
