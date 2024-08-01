@@ -635,3 +635,259 @@ cd ..
 ls
 sudo git add UTN-FRA_SO_Examenes/202408/
 git status
+git add .bash_history
+giy status
+git status
+ls
+cd UTN-FRA_SO_Examenes/
+ls
+cd 202408
+ls
+cd bash_script
+ls
+cd ..
+cd /usr/local/bin
+ls
+ll
+sudo vim chanampa_check_URL.sh
+cd /var/log
+ll
+cd /usr/local/bin/
+sudo vim chanampa_check_URL.sh 
+sudo ./chanampa_check_URL.sh /home/mc/UTN-FRA_SO_Examenes/202408/bash_script/Lista_URL.txt 
+cd
+ls
+sudo cp -r UTN-FRA_SO_Examenes/202408/ ./202408
+ls
+cd 202408/
+ls
+cd
+git add 202408
+git status
+git add 202408
+git add 202408/
+sudo git add 202408/
+sudo git push --set-upstream origin master
+git status
+git commit -m "terminado"
+sudo git commit -m "terminado"
+sudo git push --set-upstream origin master
+ls
+cd UTN-FRA-SO_Examenes
+cd UTN-FRA_SO_Examenes/
+ll
+cd 202408
+ll
+cd _checks/
+ll
+sudo vim check_A.sh 
+cd
+cd RTA_Examen_20240731/
+ls
+cd RTA_Examen_20240731/
+la
+ls
+cd
+sudo lsblk
+sudo swapon -s
+sudo swapon /dev/mapper/vg_temp-lv_swap
+sudo swapon /dev/sdd5
+ls
+cd RTA_Examen_20240731/
+ls
+sudo vim Punto_A.sh 
+./Punto_A.sh
+sudo ./Punto_A.sh
+sudo vim Punto_A.sh 
+sudo ./Punto_A.sh
+cd
+sudo ./RTA_Examen_20240731/Punto_A.sh
+./RTA_Examen_20240731/Punto_A.sh
+cd RTA_Examen_20240731/
+cd
+sudo chmod 775 RTA_Examen_20240731/
+./RTA_Examen_20240731/Punto_A.sh
+cd RTA_Examen_20240731/
+./Punto_A.sh
+sudo ./Punto_A.sh
+sudo vim Punto_A.sh 
+./Punto_A.sh
+sudo chmod 777 Punto_A.sh 
+./Punto_A.sh
+sudo vim Punto_A.sh 
+./Punto_A.sh
+sudo vim Punto_A.sh 
+cd
+sudo chmod 777 RTA_Examen_20240731/
+ls
+sudo chmod 775 RTA_Examen_20240731/
+ls
+cd RTA_Examen_20240731/
+ls
+sudo chmod Punto_B.sh
+sudo chmod 777 Punto_B.sh
+sudo chmod 777 Punto_C.sh
+sudo chmod 777 Punto_D.sh
+ls
+cd
+cd UTN-FRA_SO_Examenes/202408/bash_script/
+ls
+sudo vim check_URL.sh
+sudo chmod 777 Lista_URL.txt 
+ls
+cd
+sudo ./usr/
+cd /usr/
+ls
+cd
+cd /usr/local/bin/
+ls
+sudo chmod 777 chanampa_check_URL.sh 
+cd
+sudo ./usr/local/bin/chanampa_check_URL.sh UTN-FRA_SO_Examenes/202408/bash_script/Lista_URL.txt 
+cd /usr/local/bin/
+./chanampa_check_URL.sh /home/mc/UTN-FRA_SO_Examenes/202408/bash_script/Lista_URL.txt 
+sudo ./chanampa_check_URL.sh /home/mc/UTN-FRA_SO_Examenes/202408/bash_script/Lista_URL.txt 
+cd /var/log/
+ls
+cd
+cd /usr/local/bin/
+sudo vim chanampa_check_URL.sh 
+cd
+ls
+cd RTA_Examen_20240731/
+ls
+sudo vim Punto_B.sh 
+cd
+cd UTN-FRA_SO_Examenes/
+ls
+cd 202408
+ls
+cd docker
+cd
+cd UTN-FRA_SO_Examenes/
+ls
+cd 202408
+cd docker
+cd
+cd RTA_Examen_20240731/
+ls
+sudo ./Punto_C.sh
+sudo vim Punto_C.sh 
+sudo ./Punto_C.sh
+sudo vim Punto_C.sh 
+cd
+cd UTN-FRA_SO_Examenes/202408/docker
+ls
+cd web
+ls
+cd
+cd RTA_Examen_20240731/
+LS
+ls
+sudo vim Punto_C.sh 
+./Punto_C.sh
+sudo vim Punto_C.sh 
+./Punto_C.sh
+sudo vim Punto_C.sh 
+./Punto_C.sh
+sudo vim Punto_C.sh 
+cd
+cd UTN-FRA_SO_Examenes/202408/docker/
+sudo ./home/mc/RTA_Examen_20240731/Punto_C.sh
+cd /home/mc/RTA_Examen_20240731/ && ./Punto_C.sh
+cd
+cd RTA_Examen_20240731/
+sudo vim Punto_C.sh
+sudo ./Punto_C.sh
+pwd
+cd
+CD RTA_Examen_20240731/
+cd RTA_Examen_20240731/
+ls
+rmkdir docker-compose.yml
+rmdir docker-compose.yml
+rm -r docker-compose.yml
+ls
+rm -r docker-compose.yml
+ls
+rm -r dockerfile
+ls
+sudo vim Punto_C.sh 
+sudo ./Punto_C.sh 
+sudo vim Punto_C.sh 
+sudo ./Punto_C.sh 
+sudo vim Punto_C.sh 
+ls
+sudo vim Punto_B.sh 
+sudo ./Punto_B.sh 
+sudo vim Punto_B.sh 
+sudo tree --version
+sudo tree /tmp/head-check/
+sudo vim Punto_B.sh 
+sudo ./Punto_B.sh 
+sudo cat /var/log/status_URL.log
+cd /var/log/
+ls
+sudo cat 200.log
+sudo rm -r 200.log
+ls
+sudo rm -r 404.log
+sudo rm -r 500.log
+ls
+cd
+cd RTA_Examen_20240731/
+ls
+sudo vim Punto_B.sh
+sudo ./Punto_B.sh 
+cd /var/log/
+ls
+sudo rm -r 200.log
+sudo rm -r 404.log
+sudo rm -r 500.log
+ls
+cd
+cd RTA_Examen_20240731/
+ls
+sudo vim Punto_D.sh
+cd
+history
+cd RTA_Examen_20240731/
+sudo vim Punto_D.sh 
+sudo ./Punto_D.sh
+htop --version
+sudo vim Punto_D.sh
+sudo ./Punto_D.sh
+sudo vim Punto_D.sh
+sudo /etc/group ll
+sudo ls /etc/group 
+sudo vim Punto_A.sh
+cd
+sudo ls /etc/group
+sudo ll /etc/group
+sudo cat /etc/group
+sudo cat /etc/group | tail -n4
+cd RTA_Examen_20240731/
+sudo cat /etc/group | tail -n4
+sudo vim Punto_D.sh
+sudo ./Punto_D.sh 
+sudo vim Punto_D.sh
+sudo ./Punto_D.sh 
+sudo vim Punto_D.sh
+sudo cat /etc/sudoers
+sudo cat /etc/sudoers.d
+sudo /etc/sudoers.d
+sudo ls /etc/sudoers.d
+sudo ll /etc/sudoers.d
+sudo cat /etc/passwd
+sudo cat /etc/passwd | tail -n2
+sudo vim Punto_D.sh 
+sudo ./Punto_D.sh
+sudo vim Punto_D.sh 
+cd
+git status
+git commit -m "Archivos ejecutables de los Puntos Punto_A, Punto_B, Punto_C y Punto_D terminados"
+git add RTA_Examen_20240731/
+git add RTA_Examen_20240731/Punto_A.sh 
+sudo git add RTA_Examen_20240731/
+sudo git status
